@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  MyToDoList
 //
-//  Created by Afraz Siddiqui on 4/28/20.
-//  Copyright © 2020 ASN GROUP LLC. All rights reserved.
 //
 
 import RealmSwift
